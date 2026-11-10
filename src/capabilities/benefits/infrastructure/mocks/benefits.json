@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Café Miraflores",
+    "description": "Promoción demostrativa en cafetería del distrito.",
+    "image": "https://example.com/benefits/cafe-miraflores.jpg",
+    "promotion": "20% de descuento",
+    "address": "Zona comercial de Miraflores, Lima (referencial)",
+    "latitude": -12.1191,
+    "longitude": -77.0304,
+    "applicableBrands": ["VISA"]
+  },
+  {
+    "id": 2,
+    "title": "Restaurante San Isidro",
+    "description": "Promoción demostrativa en consumo presencial.",
+    "image": "https://example.com/benefits/restaurante-san-isidro.jpg",
+    "promotion": "15% de descuento",
+    "address": "Zona comercial de San Isidro, Lima (referencial)",
+    "latitude": -12.095,
+    "longitude": -77.04,
+    "applicableBrands": ["MASTERCARD"]
+  },
+  {
+    "id": 3,
+    "title": "Librería San Miguel",
+    "description": "Promoción demostrativa en libros seleccionados.",
+    "image": "https://example.com/benefits/libreria-san-miguel.jpg",
+    "promotion": "10% de descuento",
+    "address": "Zona comercial de San Miguel, Lima (referencial)",
+    "latitude": -12.0771,
+    "longitude": -77.0823,
+    "applicableBrands": ["VISA", "MASTERCARD"]
+  },
+  {
+    "id": 4,
+    "title": "Experiencia Barranco",
+    "description": "Beneficio de prueba reservado para otra marca.",
+    "image": "https://example.com/benefits/barranco.jpg",
+    "promotion": "2x1 demostrativo",
+    "address": "Zona comercial de Barranco, Lima (referencial)",
+    "latitude": -12.1492,
+    "longitude": -77.0219,
+    "applicableBrands": ["AMEX"]
+  }
+]

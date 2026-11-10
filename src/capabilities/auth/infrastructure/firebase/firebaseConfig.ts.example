@@ -1,0 +1,10 @@
+import type { FirebaseOptions } from 'firebase/app';
+
+// Copy to firebaseConfig.ts and complete locally with the web app configuration.
+// Never add a demo password, service account or token to this object.
+export const firebaseConfig = {
+  apiKey: '',
+  authDomain: '',
+  projectId: '',
+  appId: '',
+} satisfies FirebaseOptions;

@@ -1,0 +1,12 @@
+[
+  {
+    "accountId": "acc_101",
+    "alias": "Cuenta principal",
+    "maskedNumber": "**** 0456"
+  },
+  {
+    "accountId": "acc_102",
+    "alias": "Cuenta de ahorros",
+    "maskedNumber": "**** 7832"
+  }
+]

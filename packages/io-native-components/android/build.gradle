@@ -1,0 +1,15 @@
+apply plugin: "com.android.library"
+apply plugin: "org.jetbrains.kotlin.android"
+apply plugin: "com.facebook.react"
+
+android {
+    namespace "com.ioproductsbenefits.nativecomponents"
+    compileSdk rootProject.ext.compileSdkVersion
+    defaultConfig { minSdk rootProject.ext.minSdkVersion }
+}
+
+dependencies {
+    implementation("com.facebook.react:react-android")
+    implementation("com.google.android.gms:play-services-maps:20.1.0")
+    testImplementation("junit:junit:4.13.2")
+}
